@@ -1,0 +1,14 @@
+#child{
+    background: grey;
+    border: solid black;
+    height: 400px;
+    width: 400px;
+    margin-left: 230px;
+    margin-top: 230px;
+}
+#details{
+    margin-left: 136px;
+}
+#out{
+    text-decoration: solid black;
+}
